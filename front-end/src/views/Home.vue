@@ -237,6 +237,7 @@ margin-top: -20px;
   margin-bottom: 10px;
   font-style: italic;
   /*font-style: oblique;*/
+  overflow-wrap: break-word;
 }
 
 .fancy-box .fancy-subheading {
