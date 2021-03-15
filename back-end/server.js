@@ -10,7 +10,7 @@ app.use(bodyParser.urlencoded({
 const mongoose = require('mongoose');
 
 // connect to the database
-mongoose.connect('mongodb://localhost:27017/museum-db', {
+mongoose.connect('mongodb://localhost:27017/mycp4-db', {
   useNewUrlParser: true
 });
 
